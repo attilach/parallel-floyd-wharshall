@@ -1,3 +1,12 @@
+/**
+* @fichier floydpar.c
+* @titre Parallel Floyd-wharshall
+* @description Implémentation de l'algo de Floyd-wharshall en parallèle avec MPI
+* @auteur Kevin Estalella
+* @date 14 Janvier 2018
+* @version 1.0
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
